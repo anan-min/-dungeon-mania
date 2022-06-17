@@ -1,0 +1,110 @@
+
+{
+    "width": 12,
+    "height": 12,
+    "entities": [
+      {
+        "x": 2,
+        "y": 1,
+        "type": "treasure"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "type": "treasure"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "treasure"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "treasure"
+      },
+      {
+        "x": 9,
+        "y": 3,
+        "type": "door"
+      },
+      {
+        "x": 4,
+        "y": 5,
+        "type": "treasure"
+      },
+      {
+        "x": 8,
+        "y": 5,
+        "type": "key"
+      },
+      {
+        "x": 11,
+        "y": 5,
+        "type": "bomb"
+      },
+      {
+        "x": 6,
+        "y": 6,
+        "type": "player"
+      },
+      {
+        "x": 4,
+        "y": 7,
+        "type": "health_potion"
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "type": "wall"
+      },
+      {
+        "x": 8,
+        "y": 7,
+        "type": "wood"
+      },
+      {
+        "x": 10,
+        "y": 7,
+        "type": "bomb"
+      },
+      {
+        "x": 3,
+        "y": 9,
+        "type": "invincibility_potion"
+      },
+      {
+        "x": 5,
+        "y": 9,
+        "type": "invisibility_potion"
+      },
+      {
+        "x": 7,
+        "y": 9,
+        "type": "arrow"
+      },
+      {
+        "x": 9,
+        "y": 9,
+        "type": "arrow"
+      },
+      {
+        "x": 17,
+        "y": 0,
+        "type": "wall"
+      },
+      {
+        "x": 8,
+        "y": 11,
+        "type": "sword"
+      },
+      {
+        "x": 10,
+        "y": 11,
+        "type": "sword"
+      }
+    ],
+    "goal-condition": {
+      "goal": "treasure"
+    }
+  }
